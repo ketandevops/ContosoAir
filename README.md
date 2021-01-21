@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ketanaz400/CI-CD-website-ContosoAir-Azurepipelines/_apis/build/status/ketandevops.ContosoAir?branchName=master)](https://dev.azure.com/ketanaz400/CI-CD-website-ContosoAir-Azurepipelines/_build/latest?definitionId=35&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
