@@ -103,5 +103,31 @@
       "stops": null,
       "since": "2017-02-13T00:00:01Z"
     }
+    {
+      "id": "8",
+      "fromName": "Fremont",
+      "fromCode": "FRE",
+      "toName": "Maninagar",
+      "toCode": "MANI",
+      "price": "626000",
+      "departTime": null,
+      "arrivalTime": null,
+      "hours": null,
+      "stops": null,
+      "since": "2017-02-13T00:00:01Z"
+    },
+    {
+      "id": "9",
+      "fromName": "Ahmedabad",
+      "fromCode": "AMD",
+      "toName": "SanFrancisco",
+      "toCode": "SFO",
+      "price": "52800",
+      "departTime": null,
+      "arrivalTime": null,
+      "hours": null,
+      "stops": null,
+      "since": "2017-02-13T00:00:01Z"
+    }
   ]
   
